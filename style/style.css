@@ -1,0 +1,140 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: beige;
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    font-family: montserrat;  
+
+}
+
+.wrapper {
+    background-color: white;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.sidebar {
+    background-color: darkslategray;
+    width: 280px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.my-photo {
+    width: 280px;
+}
+
+/* #namemy {
+Width:280px;
+} */
+
+.about-my-container {
+    padding-top: 110px;
+    padding-right: 90px;
+    padding-bottom: 110px;
+    padding-left: 90px;
+}
+
+.contacts-container {
+    padding-top: 60px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+}
+
+.contcts-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: white;
+    margin-bottom: 20px;
+
+}
+
+.contact-links {
+    font-size: 14px;
+    font-weight: 400px;
+    line-height: 24px;
+    color: deepskyblue
+}
+.soft-skils-container {
+    padding-top: 55px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    color: beige;
+}
+
+.soft-skill-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: gren;
+    margin-bottom: 20px;
+
+}
+
+.soft-skill-item {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: white;
+}
+
+.name {
+    color:black;
+    font-family: Montserrat;
+    font-size: 45px;
+    line-height: 90px;
+}
+
+.profession {
+    color:black;
+    font-family: Monserrate;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin: 0;
+    padding-bottom: 40px;
+}
+
+.description {
+    color: gray;
+    font-family: Montserrate;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0;
+}
+
+.info-continer {
+    margin-bottom: 65px;
+}
+
+.about-my-title {
+    color: black;
+    font-family: Montserrate;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+
+.profession {
+
+}
+
+.review{
+    display:flex;
+    gap: 40px;
+    row-gap: 40px;
+}
+
